@@ -1,10 +1,6 @@
 
-
-
-
-
 # 🍿 Popular MovieList App 과제
-
+## 🗣️ 과제 설명
 7차시, 8차시에 학습한 API 통신 관련 과제입니다. 오픈 API를 이용해 **Popular MovieList App**을 만들어봅니다.  
 **현재 인기 있는 MovieListScreen과 해당 영화를 눌렀을 때 그 영화의 세부 정보가 보여질 수 있는 MovieDetailScreen을 구현합니다.**  
 선택 과제는 평점을 등록할 수 있는 기능 구현입니다.
@@ -59,7 +55,7 @@ MovieDatailsScreen에서는 **`backdrop_path`** 를 사용했습니다.*
 <td><img src="https://github.com/user-attachments/assets/30afcf33-7d14-44c4-af31-d4c97cfbf1f4" alt="Image 2" width="300"></td>
 </tr>
 </table>
-
+</details>
 <details><summary>추가 과제 실행 예시 
 </summary>
 <table>
