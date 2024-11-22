@@ -30,8 +30,8 @@
   - 영화 포스터 사진, 영화 제목, 영화 개봉일, 영화 개요
   - 뒤로가기 버튼 (선택 요구 사항을 구현하신 분들은 이 부분은 구현 안 하셔도 됩니다.)
 
-*cf. 예시에서 MovieListScreen은 응답 값 중 **`poster_path`**를 사용하고,  
-MovieDatailsScreen에서는 **`backdrop_path`** 를 사용했습니다.*
+cf. 예시에서 MovieListScreen은 응답 값 중 **`poster_path`**를 사용하고,  
+MovieDatailsScreen에서는 **`backdrop_path`** 를 사용했습니다.
 
 ---
 
