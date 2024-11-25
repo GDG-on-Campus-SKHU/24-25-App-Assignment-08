@@ -8,7 +8,6 @@ class MovieService {
   static Future<List<MovieData>> getMovieList() async {
     final response = await http.get(Uri.parse('https://api.themoviedb.org/3/movie/popular?api_key=$apiKey'));
     if (response.statusCode== 200){
-      print(response.body);
       final jsonData = jsonDecode(response.body); // JSON 응답 디코드
       final List<dynamic> results = jsonData['results']; // 'results' 키에서 영화 리스트 추출
 
