@@ -3,8 +3,8 @@ class MovieData {
   final String movieTitle; // 인기 영화 제목
   final String movieMoreInfo; // 영화에 대한 소개
   final double movieRating; // 영화 평점
-  final String releaseDate;
-  final String backDrop;
+  final String releaseDate; // 업데이트 날짜?
+  final String backDrop; // 포스터 가로
   MovieData({
     required this.poster,
     required this.movieTitle,

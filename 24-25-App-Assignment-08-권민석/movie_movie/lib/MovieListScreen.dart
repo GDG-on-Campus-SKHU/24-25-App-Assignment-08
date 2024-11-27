@@ -9,6 +9,8 @@ class MovieListScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    debugShowCheckedModeBanner:
+    false;
     return Scaffold(
       appBar: AppBar(
         // 앱바: 화면 제목과 스타일 정의
